@@ -11,7 +11,7 @@ html {
 
 body {
   font-family: "PT Sans", sans-serif;
-  overflow: hidden;
+  overflow-x: hidden;
 }
 
 section:not(:first-child) {
